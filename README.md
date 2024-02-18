@@ -1,2 +1,2 @@
-# ML_Python
-The repository to store scripts used in a tutorial series.
+# Introduction to Python and Machine Learning
+This repository stores scripts I used a couple of years ago in a tutorial series.
