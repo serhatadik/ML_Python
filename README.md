@@ -1,8 +1,6 @@
 # Introduction to Python and Machine Learning
 This repository stores scripts I used in a tutorial series I gave at a company.
 
-# The Content Table
-
 ## Gaussian Naive Bayes: 
 Explaining briefly the math behind Naive Bayes classification and a plant classification example using Gaussian distribution.
 
